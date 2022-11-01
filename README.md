@@ -1,0 +1,1 @@
+# This repository contains the file for the assignment on designing a card with HTML.
